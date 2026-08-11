@@ -1,0 +1,13 @@
+{
+  "owner_alias": "owner",
+  "subject_alias": "subject",
+  "relationship": "unknown",
+  "relationship_period": "unknown",
+  "owner_context": {"school_or_org": "unknown", "status": "unknown", "role": "unknown"},
+  "subject_context": {"school_or_org": "unknown", "status": "unknown", "role": "unknown"},
+  "shared_experiences": [],
+  "key_events": [],
+  "inside_jokes": [],
+  "privacy_boundary": "local_only",
+  "output_use": "test"
+}

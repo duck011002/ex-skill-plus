@@ -1,0 +1,6 @@
+interface:
+  display_name: "ex.skill-plus"
+  short_description: "Evidence-bounded chat profile and relationship skill builder"
+  default_prompt: "Use $ex-skill-plus to clean chat captures, run a one-question intake, and build an evidence-bounded profile."
+policy:
+  allow_implicit_invocation: false
